@@ -2,7 +2,7 @@
 public class Employee {
 	public static void main(String[] args) {
 		int empId;
-		String empName;
+		String str="Welcome to Java Programing";
 	}
 
 }
